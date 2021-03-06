@@ -1,5 +1,7 @@
 # Project Mobile Application
 
+Source code can be found [>> here <<](https://github.com/Antoinetest01/Project_Mobile_Application/releases/tag/1.0.0)
+
 ## Important to download to get the code working:
 
 - SDK and Cmake :
@@ -30,4 +32,6 @@ By passing the password the first time, the code stores the password in a room d
 The main idea of our implementation is to store the URL of the API in a room database. To do so, the code stores the URL in a C++ class using native JNI code to hide sensitive string data with SDK and Cmake. Since C++ classes are stored inside it means that it is very difficult to decode it. 
 
 ## Screenshots of your application
+
+![image](https://user-images.githubusercontent.com/78219632/110219584-7e235f00-7ec0-11eb-9bc6-3ff4c11d60b2.png)
 
