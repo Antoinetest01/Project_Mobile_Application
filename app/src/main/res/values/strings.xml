@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project_Mobile_Application</string>
+    <string name="textViewAuthentication">Login to your account:</string>
+    <string name="editTextAuthentification"></string>
+    <string name="buttonAuthentification">Login</string>
+    <string name="textViewConfig">No account in config was found</string>
+    <string name="textViewAccounts">No account was found</string>
+    <string name="textView">Config:</string>
+    <string name="textView2">Accounts:</string>
+    <string name="buttonRefresh">Refresh</string>
+    <string name="buttonGoBack">Go Back</string>
+</resources>
