@@ -1,6 +1,6 @@
 # Project Mobile Application
 
-Source code can be found [>> here <<](https://github.com/Antoinetest01/Project_Mobile_Application/releases/tag/1.0.1)
+Source code can be found [>> here <<](https://github.com/Antoinetest01/Project_Mobile_Application/releases/tag/1.0.0)
 
 ## Important to download to get the code working:
 
