@@ -4,7 +4,7 @@ Source code can be found [>> here <<](https://github.com/Antoinetest01/Project_M
 
 ## Important to download to get the code working:
 
-- SDK and Cmake :
+- SDK and CMake :
 
 Go to :
 Tools -> SDK Manager -> SDK Tools
