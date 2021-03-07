@@ -33,7 +33,9 @@ The main idea of our implementation is to store the URL of the API in a room dat
 
 ## Screenshots of your application
 
-![image](https://user-images.githubusercontent.com/78219632/110219584-7e235f00-7ec0-11eb-9bc6-3ff4c11d60b2.png)&nbsp;
-![image](https://user-images.githubusercontent.com/78219632/110246536-3fe17a80-7f68-11eb-91f8-16d398d99b26.png)
+![image](https://user-images.githubusercontent.com/78219632/110219584-7e235f00-7ec0-11eb-9bc6-3ff4c11d60b2.png)
+
+![image](https://user-images.githubusercontent.com/78219632/110246599-820abc00-7f68-11eb-8ba5-ca029b403a71.png)
+
 
 
